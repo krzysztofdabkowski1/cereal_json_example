@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "cereal task",
+			"command": "g++",
+			"args": [
+				"cereal_example.cpp",
+				"Car.h",
+				"-I",
+				"C:\\Users\\Asus\\cpp_files\\cpp_libs\\cereal-1.3.0\\include",
+				"-o",
+				"cereal_example.exe"
+			],
+			"options": {
+				"cwd": "${workspaceFolder}"
+			},
+			"group": "build",
+			"detail": "kompilator: g++",
+		}
+	]
+}

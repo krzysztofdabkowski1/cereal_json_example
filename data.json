@@ -1,0 +1,46 @@
+{
+    "car": {
+        "ptr_wrapper": {
+            "id": 2147483649,
+            "data": {
+                "name": "Renault Scenic",
+                "tires": [
+                    {
+                        "typeOfRubber": 1
+                    },
+                    {
+                        "typeOfRubber": 1
+                    },
+                    {
+                        "typeOfRubber": 2
+                    },
+                    {
+                        "typeOfRubber": 2
+                    }
+                ]
+            }
+        }
+    },
+    "car2": {
+        "ptr_wrapper": {
+            "id": 2147483650,
+            "data": {
+                "name": "Renault Megane",
+                "tires": [
+                    {
+                        "typeOfRubber": 1
+                    },
+                    {
+                        "typeOfRubber": 1
+                    },
+                    {
+                        "typeOfRubber": 2
+                    },
+                    {
+                        "typeOfRubber": 2
+                    }
+                ]
+            }
+        }
+    }
+}
